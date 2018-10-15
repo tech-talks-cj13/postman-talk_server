@@ -7,7 +7,7 @@
 
 ## Dependencies
  
- `npm intall `
+ `npm install `
 
 ## Running
 
