@@ -30,13 +30,13 @@ fakeServer.get({
         },
         {
             "id": 2,
-            "obj": "milk",
+            "obj": "meat",
             "packages" : {
-                "liter" : {
+                "single" : {
                     "id" : 13,
                     "price" : 1.3
                 },
-                "decaliter" : {
+                "kilo" : {
                     "id" : 14,
                     "price" : 1.1
                 }
@@ -102,13 +102,13 @@ fakeServer.get({
     "data":
         {
             "id": 2,
-            "obj": "milk",
+            "obj": "meat",
             "packages" : {
-                "liter" : {
+                "single" : {
                     "id" : 13,
                     "price" : 1.3
                 },
-                "decaliter" : {
+                "kilo" : {
                     "id" : 14,
                     "price" : 1.1
                 }
