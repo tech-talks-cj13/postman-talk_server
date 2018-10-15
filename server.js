@@ -13,7 +13,7 @@ fakeServer.get({
 fakeServer.get({ 
   path: '/products', 
   response: {
-    "products": [
+    "data": [
         {
             "id": 1,
             "obj": "carrot",
