@@ -1,0 +1,15 @@
+{
+  "name": "mockserver2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "test-fake-server": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Hernán Caballero García <javierhernan@caballerogarcia.com>",
+  "license": "MIT"
+}
